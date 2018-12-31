@@ -110,6 +110,6 @@ canvas {
 
 .clouds{
     background: transparent url(../img/background.jpg) repeat top center;
-    background-size: 100%;
+    background-size: cover;
     z-index:3;
 }
